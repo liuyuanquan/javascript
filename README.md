@@ -1,4 +1,4 @@
-# Airbnb JavaScript 风格指南() {
+# Airbnb JavaScript 风格指南()
 
 *JavaScript最合理的方法 A mostly reasonable approach to JavaScript*
 
